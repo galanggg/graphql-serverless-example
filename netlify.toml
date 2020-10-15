@@ -6,4 +6,5 @@
 [[redirects]]
   from = "/.netlify/functions/graphql"
   to = "/graphql"
+  force = true
   status = 200

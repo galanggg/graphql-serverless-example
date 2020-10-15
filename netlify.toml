@@ -2,3 +2,8 @@
   command = "npm run build"
   functions = "functions"
   publish = "public"
+
+[[redirects]]
+  from = "/.netlify/functions/graphql"
+  to = "/graphql"
+  status = 200
